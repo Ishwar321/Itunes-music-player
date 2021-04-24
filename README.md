@@ -11,6 +11,15 @@ android development. I would like to thank him for solving whichever errors we g
 java. we first learned about android development from youtube everyone got comfortable and then we began. Thank you mam for suggesting amazing idea and guiding us.
 These project helped us in knowing how android apps are developedand encouraged us for android development
 
+Install
+
+Run the command in your terminal
+
+https://github.com/Ishwar321/Itunes-music-player
+
+Or you can just clone it through android studio which will be much easier. 
+Note: Always run te application on a real device rather running it on a emulator(Virtual device) 
+
 Features
 
 1.Reads the internal storage
