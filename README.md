@@ -6,9 +6,9 @@ I would like thank mam for such amazing idea. As its a android IOS music app so 
 
 History
 
-I strted these project with 3 friends from my college. we started our research about the project. I contacted my school friend Ansh Gaikwad who had knowledge of 
-android development. I would like to thank him for solving whichever errors we got while completing the as everyone was beginer and no one was comfortable with
-java. we first learned about android development from youtube everyone got comfortable and then we began. Thank you mam for suggesting amazing idea and guiding us.
+I started these project with 3 friends from my college. We started our research about the project. I contacted my school friend Ansh Gaikwad who had knowledge of 
+android development. I would like to thank him for solving whichever errors we got while completing the project as everyone was beginer and no one was comfortable
+with java. we first learned about android development from youtube everyone got comfortable and then we began. Thank you mam for suggesting amazing idea and guiding us.
 These project helped us in knowing how android apps are developedand encouraged us for android development
 
 Install
